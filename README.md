@@ -10,4 +10,4 @@
 - 🧠 I enjoy exploring: **scripting**, **system architecture**, **network design**, **data integrity**, **security**
 - 🌍 Most at home in the **SysAdmin community**
 - 💬 `ping` me about **automation**, **infra**, **shell scripting**, **networking**, **tech aesthetics**, **sysadmin**
-- 🔗 Find me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/paloma-mas/)) or reach out at `tu-correo@ejemplo.com`
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/paloma-mas/) or reach out at `paloma.fullstack@gmail.com`
