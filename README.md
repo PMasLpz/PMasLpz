@@ -75,7 +75,7 @@
     </td>
   </tr>
   <td colspan="2">
-    <strong>Other Tools</strong><br/>
+    <strong style="text-align: center;">Other Tools</strong><br/>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
