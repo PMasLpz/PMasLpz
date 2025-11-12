@@ -14,6 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMasLpz&show_icons=true&theme=gotham)
 
+# 💻 Tech Stack
 <table>
   <tr>
     <td><strong>Databases</strong><br/>
@@ -82,5 +83,5 @@
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
       <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
     </td>
-    <td><strong>Servers / Social</strong><br/>
-      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo
+  </tr>
+</table>
