@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMasLpz&show_icons=true&theme=gotham)
 
-# 💻 Tech Stack
+# 💻 Systems & Dev Toolkit
 <table>
   <tr>
     <td style="text-align: center;">
