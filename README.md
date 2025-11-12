@@ -17,7 +17,8 @@
 # 💻 Tech Stack
 <table>
   <tr>
-    <td><strong>Databases</strong><br/>
+    <td style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Databases</strong><br/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -25,7 +26,8 @@
       <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </td>
-    <td><strong>Developer / Forums</strong><br/>
+    <td style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Developer / Forums</strong><br/>
       <img src="https://img.shields.io/badge/Codeforces-%230092CF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
       <img src="https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hackerrank-%2307AC61.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -35,7 +37,8 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Frameworks / Libraries</strong><br/>
+    <td style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Frameworks / Libraries</strong><br/>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -43,7 +46,8 @@
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
     </td>
-    <td><strong>Hosting / SaaS</strong><br/>
+    <td style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Hosting / SaaS</strong><br/>
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
@@ -53,7 +57,8 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Languages</strong><br/>
+    <td style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Languages</strong><br/>
       <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -64,7 +69,8 @@
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white"/>
     </td>
-    <td><strong>Operating Systems</strong><br/>
+    <td style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Operating Systems</strong><br/>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
@@ -75,14 +81,14 @@
     </td>
   </tr>
   <tr>
-  <td colspan="2">
-    <strong>Other Tools</strong><br/>
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
-  </td>
-</tr>
+    <td colspan="2" style="text-align: center;">
+      <strong style="margin-top: 3px; margin-bottom: 3px;">Other Tools</strong><br/>
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+    </td>
+  </tr>
 </table>
