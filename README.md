@@ -1,16 +1,13 @@
-### Howdy - Paloma here👋
+# Howdy - Paloma here👋
 
-<!--
-**PMasLpz/PMasLpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Systems Administrator · Backend Developer · Windows & Linux Specialist · DBA & Network Engineer
 
-Here are some ideas to get you started:
+🖥️ Living and breathing infrastructure — from servers to scripts;<br>
+⚙️ Automating with PowerShell, Bash, and SQL across Windows Server, Linux, and the cloud;<br>
+🌐 Working with Azure, VMware, pfSense, Docker, and everything in between;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.ps1`, `.sh`, `.sql`, `.json`, `.yaml`, `.bat`, `.md`
+- 🧠 I enjoy exploring: **scripting**, **system architecture**, **network design**, **data integrity**, **security**
+- 🌍 Most at home in the **SysAdmin community**
+- 💬 `ping` me about **automation**, **infra**, **shell scripting**, **networking**, **tech aesthetics**, **sysadmin**
+- 🔗 Find me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/paloma-mas/)) or reach out at `tu-correo@ejemplo.com`
