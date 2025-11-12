@@ -17,7 +17,7 @@
 # 💻 Tech Stack
 <table>
   <tr>
-    <td><strong>Databases</strong><br/>
+    <td><strong style="display: block; margin-bottom: 6px;">Databases</strong><br/>
       <img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
