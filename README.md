@@ -12,8 +12,6 @@
 - 💬 `ping` me about **automation**, **infra**, **shell scripting**, **networking**, **sysadmin**
 - 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/paloma-mas/) or reach out at `paloma.fullstack@gmail.com`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMasLpz&show_icons=true&theme=gotham)
-
 # 💻 Systems & Dev Toolkit
 <table>
   <tr>
